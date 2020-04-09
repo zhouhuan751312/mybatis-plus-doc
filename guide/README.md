@@ -112,6 +112,7 @@
 - [bootplus](https://github.com/JoeyBling/bootplus)：基于`SpringBoot + Shiro + MyBatisPlus`的权限管理框架
 - [Dice](https://github.com/bihell/Dice)：一个Vue 2.x 和 SpringBoot 全家桶开发的前后端分离的个人内容管理系统：「博客」、「权限管理」、「代码段」、「媒体库」等。
 - [thyme-boot](https://gitee.com/thyme-boot/thyme-boot)：基于SpringBoot+Layui+Vue的快速后台开发框架
+- [FastOs](https://gitee.com/zhouhuanOGP/J2EEFAST)：，基于经典技术组合（Spring Boot、Spring MVC、Apache Shiro、MyBatis-Plus、Freemarker、Bootstrap、AdminLTE）采用经典开发模式
 ## 接入企业
 
 ::: tip
